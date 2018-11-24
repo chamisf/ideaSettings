@@ -1,0 +1,137 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="EclipseCodeFormatterProjectSettings">
+        <option name="projectSpecificProfile">
+          <ProjectSpecificProfile>
+            <option name="formatter" value="ECLIPSE" />
+            <option name="importOrder" value="\#;;java;javax;org;com;se.cambio;se.cambiosys;" />
+            <option name="pathToConfigFileJava" value="D:/Softwares/eclipse-code-formatter.xml" />
+            <option name="selectedJavaProfile" value="SDK" />
+          </ProjectSpecificProfile>
+        </option>
+      </component>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="D:/TEMP/cosmic-runconfiguration-plugin" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="IssueNavigationConfiguration">
+        <option name="links">
+          <list>
+            <IssueNavigationLink>
+              <option name="issueRegexp" value="[A-Z]+\-\d+" />
+              <option name="linkRegexp" value="https://issues.cambio.se/browse/$0" />
+            </IssueNavigationLink>
+          </list>
+        </option>
+      </component>
+      <component name="MavenImportPreferences">
+        <option name="generalSettings">
+          <MavenGeneralSettings>
+            <option name="mavenHome" value="C:/Apache_Software_Foundation/apache-maven-3.5.0" />
+            <option name="userSettingsFile" value="C:\Apache_Software_Foundation\apache-maven-3.5.0\conf\settings.xml" />
+          </MavenGeneralSettings>
+        </option>
+      </component>
+      <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="D:/Softwares/eclipse-code-formatter.xml" />
+        <property name="project.structure.last.edited" value="Libraries" />
+        <property name="project.structure.proportion" value="0.0" />
+        <property name="project.structure.side.proportion" value="0.2" />
+        <property name="settings.editor.selected.configurable" value="vcs.Git" />
+      </component>
+      <component name="RunDashboard">
+        <option name="ruleStates">
+          <list>
+            <RuleState>
+              <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+            </RuleState>
+            <RuleState>
+              <option name="name" value="StatusDashboardGroupingRule" />
+            </RuleState>
+          </list>
+        </option>
+      </component>
+      <component name="RunManager">
+        <configuration name="CambioClient" type="COSMIC_CONFIGURATION" factoryName="COSMIC Run Configuration" nameIsGenerated="true">
+          <option name="ALTERNATIVE_JRE_PATH" value="C:/r82-pde/r8.2-package/Products/Client/Application/JRE" />
+          <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+          <option name="MAIN_CLASS_NAME" value="se.cambiosys.client.framework.CambioClient" />
+          <option name="PROGRAM_PARAMETERS" value="-autologin Dharani cambio123" />
+          <method v="2">
+            <option name="Make" enabled="true" />
+          </method>
+        </configuration>
+      </component>
+      <component name="libraryTable">
+        <library name="modules_82">
+          <CLASSES>
+            <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules" />
+            <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules/include/external" />
+          </CLASSES>
+          <JAVADOC />
+          <SOURCES>
+            <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules/include/external" />
+          </SOURCES>
+          <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules" recursive="false" />
+          <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules/include/external" recursive="false" />
+          <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules/include/external" recursive="false" type="SOURCES" />
+        </library>
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="GlobalLibrariesConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="JdkListConfigurable.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+          <state key="ProjectLibrariesConfigurable.UI">
+            <settings>
+              <last-edited>modules_82</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
