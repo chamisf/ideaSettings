@@ -1,0 +1,33 @@
+<application>
+  <component name="libraryTable">
+    <library name="Client82">
+      <CLASSES>
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/external" />
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/spider" />
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework" />
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/Plugins" />
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/resources" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/external" />
+      </SOURCES>
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework" recursive="false" />
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/external" recursive="false" />
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/spider" recursive="false" />
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/resources" recursive="false" />
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/Plugins" recursive="false" />
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/external" recursive="false" type="SOURCES" />
+    </library>
+    <library name="Client82_Init">
+      <CLASSES>
+        <root url="jar://C:/r82-pde/r8.2-package/Products/Client/Application/modules/include/Spider/jbossFrameworkSupportModule.jar!/" />
+        <root url="jar://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/external/+org.jboss.logging-jboss-logging.jar!/" />
+        <root url="jar://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/external/+org.jboss.spec.javax.ejb-jboss-ejb-api_3.2_spec.jar!/" />
+        <root url="jar://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/external/+org.jboss.spec.javax.jms-jboss-jms-api_2.0_spec.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
