@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Maven.ExecuteGoal">
+        <abbreviation name="mc" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
