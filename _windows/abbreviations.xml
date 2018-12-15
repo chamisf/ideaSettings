@@ -4,6 +4,9 @@
       <action id="Maven.ExecuteGoal">
         <abbreviation name="mc" />
       </action>
+      <action id="GoToSpiderEJBImplementation">
+        <abbreviation name="sp" />
+      </action>
     </abbreviations>
   </component>
 </application>
