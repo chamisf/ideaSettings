@@ -1,5 +1,36 @@
 <application>
   <component name="libraryTable">
+    <library name="13HF">
+      <CLASSES>
+        <root url="file://D:/Clients/R8P1113_HF_COM/Client/Application" />
+        <root url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework" />
+        <root url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/external" />
+        <root url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/spider" />
+        <root url="file://D:/Clients/R8P1113_HF_COM/Client/Application/Plugins" />
+        <root url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework/resources" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/external" />
+      </SOURCES>
+      <jarDirectory url="file://D:/Clients/R8P1113_HF_COM/Client/Application" recursive="false" />
+      <jarDirectory url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework" recursive="false" />
+      <jarDirectory url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/external" recursive="false" />
+      <jarDirectory url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/spider" recursive="false" />
+      <jarDirectory url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework/resources" recursive="false" />
+      <jarDirectory url="file://D:/Clients/R8P1113_HF_COM/Client/Application/Plugins" recursive="false" />
+      <jarDirectory url="file://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/external" recursive="false" type="SOURCES" />
+    </library>
+    <library name="13HF_Init">
+      <CLASSES>
+        <root url="jar://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/external/+org.jboss.logging-jboss-logging.jar!/" />
+        <root url="jar://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/external/+org.jboss.spec.javax.ejb-jboss-ejb-api_3.2_spec.jar!/" />
+        <root url="jar://D:/Clients/R8P1113_HF_COM/Client/Application/framework/include/external/+org.jboss.spec.javax.jms-jboss-jms-api_2.0_spec.jar!/" />
+        <root url="jar://D:/Clients/R8P1113_HF_COM/Client/Application/modules/include/Spider/jbossFrameworkSupportModule.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="Client82">
       <CLASSES>
         <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/framework/include/external" />
