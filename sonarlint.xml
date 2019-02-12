@@ -1,5 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonar.devops.cambio.se" />
+          <option name="name" value="Cambio" />
+          <option name="login" value="chaminda.fernando" />
+          <password>dfc9dfd9dfccdfc9dfd9dfcfdfeadf92df9cdf9bdf9f</password>
+          <organizationKey>default-organization</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
   </component>
 </application>
