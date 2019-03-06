@@ -29,5 +29,18 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="Modules">
+      <CLASSES>
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules/Include/external" />
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules/Include/external" />
+      </SOURCES>
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules" recursive="false" />
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules/Include/external" recursive="false" />
+      <jarDirectory url="file://C:/r82-pde/r8.2-package/Products/Client/Application/modules/Include/external" recursive="false" type="SOURCES" />
+    </library>
   </component>
 </application>
