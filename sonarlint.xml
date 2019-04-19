@@ -5,9 +5,8 @@
       <list>
         <SonarQubeServer>
           <option name="hostUrl" value="https://sonar.devops.cambio.se" />
+          <token>df9bdfccdf99df9fdf9edfcfdf9cdfc8dfcbdf99df9bdf93df9adf9edf99dfccdf9adf9edfcfdf99dfc8dfcbdfcedfcfdfccdf9fdf9bdf99dfc8df98df9cdfc8df9cdfcedfcbdf9ddfcedfcedfc8dfce</token>
           <option name="name" value="Cambio" />
-          <option name="login" value="chaminda.fernando" />
-          <password>dfc9dfd9dfccdfc9dfd9dfcfdfeadf92df9cdf9bdf9c</password>
           <organizationKey>default-organization</organizationKey>
         </SonarQubeServer>
       </list>
