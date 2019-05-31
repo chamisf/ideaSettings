@@ -6,8 +6,13 @@
           <option name="url" value="http://scm.cambio.se" />
           <option name="userName" value="Chaminda.Fernando" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@scm.devops.cambio.se/nova/nova.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="D:\Workspace\Other" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
